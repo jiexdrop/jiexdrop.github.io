@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Solstice"
+date:   2019-08-20 00:00:00 +0000
+categories: gamedev
+image: /assets/img/solstice_min.png
+---
+
+A dungeon crawler in multiplayer
+
+[Solstice github repository](https://github.com/jiexdrop/solstice))
+
