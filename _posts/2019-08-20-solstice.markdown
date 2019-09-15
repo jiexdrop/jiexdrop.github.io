@@ -8,5 +8,5 @@ image: /assets/img/solstice_min.png
 
 A dungeon crawler in multiplayer
 
-[Solstice github repository](https://github.com/jiexdrop/solstice))
+[Solstice github repository](https://github.com/jiexdrop/solstice)
 

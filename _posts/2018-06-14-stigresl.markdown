@@ -13,4 +13,4 @@ Made for the Godot engine Jam in June 2018. Used fps tutorial here and water sha
 
 [Stigresl github repository](https://github.com/jiexdrop/stigresl)
 
-[Stigresl itch.io](https://jiexdrop.itch.io/undefined-behaviour)
+[Stigresl itch.io](https://jiexdrop.itch.io/stigresl)
