@@ -26,11 +26,34 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
-.home-image {
-    width: 315px;
-    height: 250px;
-    object-fit: cover;
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  justify-items: center;
+  grid-gap: 0.5em;
 }
+
+.post-item {
+  display: inline;
+  align-items: center;
+  overflow:hidden;
+}
+
+.post-link {
+  overflow:hidden;
+}
+
+.home-image {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+.home-image:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -40,18 +63,18 @@ $on-laptop:        800px !default;
 //   }
 // }
 @mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
-  }
+@media screen and (max-width: $device) {
+@content;
+}
 }
 
 @mixin relative-font-size($ratio) {
-  font-size: $base-font-size * $ratio;
+font-size: $base-font-size * $ratio;
 }
 
 // Import partials.
 @import
-  "minima/base",
-  "minima/layout",
-  "minima/syntax-highlighting"
+"minima/base",
+"minima/layout",
+"minima/syntax-highlighting"
 ;
