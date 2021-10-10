@@ -4,6 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I'm a game programmer at Enjmin.
-This is a gamedev portfolio.
+Programmer with experience in App Development.
 
+
+Experience with Flutter, Unity and Symfony.
+
+
+Studied game programming at Enjmin Angouleme.
+
+
+This site contains some of my projects.
