@@ -6,12 +6,20 @@ categories: gamedev
 image: /assets/img/bigmess_min.png
 ---
 
+
+<iframe width="100%" height="442" src="https://www.youtube.com/embed/A71p0ykFlC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Description
+
 A game where two aliens try to complete tasks while making a Big Mess.
 
 I worked in the task systems and interface interactions.
-* Debug a complex system
-* Created a generic system that can enable the player to use any tool
-* Utilization of Unity Events that was later removed from the project
+
+
+# What I learnt and created
+* Prototyping simple things fast, deal with fixes later
+* Generic system that enables the player to use any tool
+* Animations and particles
 
 Enjmin 2nd year project by 9 students.
 
