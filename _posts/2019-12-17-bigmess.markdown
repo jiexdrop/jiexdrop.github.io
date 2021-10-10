@@ -10,8 +10,8 @@ A game where two aliens try to complete tasks while making a Big Mess.
 
 I worked in the task systems and interface interactions.
 * Debug a complex system
-* Created a generic system that can enamble the player to use any tool
-* Utilisation of Unity Events that was later removed from the project
+* Created a generic system that can enable the player to use any tool
+* Utilization of Unity Events that was later removed from the project
 
 Enjmin 2nd year project by 9 students.
 

@@ -8,7 +8,14 @@ image: /assets/img/lune_min.png
 
 ![Lune screenshot][lune]
 
-A voxel game made with libgdx. Uses bullet physics.
+A voxel game made with libgdx. 
+
+* Created and applied textures to the voxels
+* Destructible terrain
+* Worked on artificial intelligence state machine
+* Improved performance in mobile platforms
+
+Used bullet physics.
 
 [Lune github repository](https://github.com/jiexdrop/lune)
 

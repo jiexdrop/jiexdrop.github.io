@@ -10,11 +10,11 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #ffffff !default;
-$background-color: #000000 !default;
-$brand-color:      #00fbae !default;
+$text-color:       #0A2463 !default;
+$background-color: #FFFAFF !default;
+$brand-color:      #3E92CC !default;
 
-$grey-color:       #f9ff07 !default;
+$grey-color:       #D8315B !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 10%) !default;
 
@@ -44,14 +44,10 @@ $on-laptop:        800px !default;
 }
 
 .home-image {
-  -webkit-transform: scale(1);
-  transform: scale(1);
-  -webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
+  border: 3px solid $text-color !important;
 }
 .home-image:hover {
-  -webkit-transform: scale(1.1);
-  transform: scale(1.1);
+  border: 6px solid $text-color !important;
 }
 
 

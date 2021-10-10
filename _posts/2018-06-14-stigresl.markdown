@@ -6,13 +6,27 @@ categories: gamedev
 image: /assets/img/stigresl_min.png
 ---
 
-In this game you are able to freeze water so you can walk over it. The water level can be changed if the water is not freezed. I made a very simple level in order illustrate this idea.
+![Stigresl screenshot][lune]
+
+# Description
+
+In this game, you are able to freeze water, so you can walk over it. The water level can be changed if the water is not frozen.
+
 
 Made for the Godot engine Jam in June 2018.
+
+
 The levels and the meshes were modeled in Blender.
 
 
+* Worked with GdScript
+* Learned animations timelines and events in Godot
+* Adaptability to new programming languages 
+
+# Links
 
 [Stigresl github repository](https://github.com/jiexdrop/stigresl)
 
 [Stigresl itch.io](https://jiexdrop.itch.io/stigresl)
+
+[lune]: /assets/img/stigresl.png "Stigresl screenshot"
