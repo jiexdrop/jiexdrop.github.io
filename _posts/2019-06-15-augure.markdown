@@ -11,6 +11,10 @@ One of your closest relatives disappeared.  In order to find them, you enter in 
 
 I was a Unity programmer for this project. We made this project at the Enjmin 2019.
 
+* Developped user interfaces and interactions
+* Integrated the 2D assets in game 
+* Implemented a sound system with Wwise
+
 [Augure itch.io](https://augureteam.itch.io/augure)
 
 [augure]: /assets/img/augure.png "Augure screenshot"
