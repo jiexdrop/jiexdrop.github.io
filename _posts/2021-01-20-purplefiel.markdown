@@ -28,7 +28,4 @@ I was making a video devlog each day. It was mainly for myself, to get motivated
 * Implemented and debuged multiplayer gameplay
 
 
-# Links
-
-[Purplefiel github repository](https://github.com/jiexdrop/purplefiel)
 

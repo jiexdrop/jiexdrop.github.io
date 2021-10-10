@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Programmer with experience in App Development.
+I work as an app developer.
 
 
 Experience with Flutter, Unity and Symfony.
