@@ -6,18 +6,20 @@ categories: gamedev
 image: /assets/img/solstice_min.png
 ---
 
-<iframe width="100%" height="442" src="https://www.youtube.com/embed/SvEaFt2COx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="442" src="https://www.youtube.com/embed/kQwePlFi8a4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Description
 
-A dungeon crawler in multiplayer.
+A 2d dungeon crawler in multiplayer.
 
+# What I learnt and created
 * The multiplayer portion was made with UDP/TCP C# classes.
 * Learned how to smoothly interpolate players.
 * The players can connect form any device Unity targets.
 * Simple levels automatically generated.
+* Monster waves in rooms probably use a state machine.
 
-*(this demo is single player)*
 
+# Link
 [Solstice github repository](https://github.com/jiexdrop/solstice)
 
