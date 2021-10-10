@@ -41,18 +41,48 @@ $on-laptop:        800px !default;
 
 .post-link {
   overflow:hidden;
+  position: relative;
 }
 
 .home-image {
+  display: relative !important;
+
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+  border-radius: 25px;
   border: 4px solid $text-color !important;
 }
-.home-image:hover {
-  border: 4px solid $brand-color !important;
+
+.home-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .25s ease;
+  background-color: $brand-color;
+  border-radius: 25px;
 }
 
+.home-text {
+  color: white;
+  font-size: 28px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.post-link:hover .home-overlay {
+  opacity: 1;
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {

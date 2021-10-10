@@ -18,9 +18,9 @@ layout: default
   <div class="post-item">
     <a class="post-link" href="{{ post.url | relative_url }}">
       <img class="home-image" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}"/>
-    </a>
-    <a class="post-link" href="{{ post.url | relative_url }}">
-      {{ post.title | escape }} 
+      <div class="home-overlay">
+        <div class="home-text">{{ post.title | escape }}</div>
+      </div>
     </a>
   </div>
   {%- if site.show_excerpts -%}

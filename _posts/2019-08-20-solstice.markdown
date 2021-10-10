@@ -6,12 +6,18 @@ categories: gamedev
 image: /assets/img/solstice_min.png
 ---
 
+<iframe width="100%" height="442" src="https://www.youtube.com/embed/SvEaFt2COx0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Description
+
 A dungeon crawler in multiplayer.
 
 * The multiplayer portion was made with UDP/TCP C# classes.
 * Learned how to smoothly interpolate players.
 * The players can connect form any device Unity targets.
 * Simple levels automatically generated.
+
+*(this demo is single player)*
 
 [Solstice github repository](https://github.com/jiexdrop/solstice)
 
