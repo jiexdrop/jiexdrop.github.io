@@ -70,7 +70,7 @@ $on-laptop:        800px !default;
 
 .home-text {
   color: white;
-  font-size: 28px;
+  font-size: 24px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -79,6 +79,12 @@ $on-laptop:        800px !default;
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.home-text p {
+  color: white;
+  font-size: 14px;
+}
+
 
 .post-link:hover .home-overlay {
   opacity: 1;
