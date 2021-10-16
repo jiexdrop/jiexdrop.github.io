@@ -14,10 +14,23 @@ image: /assets/img/mybse_min.png
 
 An app to view, download or share payslips.
 
+The app is mostly destined to professionals. It needs an Ededoc account.
+
 # What I learnt 
-* Connect to a middleware
-* New framework: Flutter
+* How to connect to a middleware
 * App design
 * Publish an app to the Apple and Google stores
+* A new framework: Flutter
 
+
+# Flutter 
+
+Flutter is a structured way of creating apps.
+
+It has rules that improve the robustness of the apps we create:
+* Only update state on the parts of the app we change.
+* Use of controllers.
+
+For me it was the perfect place to "stand on the shoulders of giants" and take my software architecture knowledge to the next level.
+And I'm still learning with it!
 
