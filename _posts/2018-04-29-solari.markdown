@@ -15,7 +15,7 @@ image: /assets/img/solari_min.png
 An app to make repeated tests easier.
 
 
-This was a univerity project.
+This was a university project.
 
 # What I learnt
 * Use of Sonata Admin and Symfony
@@ -24,3 +24,9 @@ This was a univerity project.
 * Creation of the calendars
 * Designed the forms
 
+
+# Link
+
+*The website will take some time to load because it's hosted on a free plan on Heroku.*
+
+[Solari link](http://solari-chu.herokuapp.com/)
