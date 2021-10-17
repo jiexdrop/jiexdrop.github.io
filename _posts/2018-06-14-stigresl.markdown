@@ -4,6 +4,7 @@ title:  "Stigresl"
 date:   2018-06-14 00:00:00 +0000
 categories: gamedev
 image: /assets/img/stigresl_min.png
+duration: "2 days"
 ---
 
 <div class="video-container">

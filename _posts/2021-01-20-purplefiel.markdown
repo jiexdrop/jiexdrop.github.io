@@ -4,6 +4,7 @@ title:  "Purplefiel"
 date:   2021-01-20 00:00:00 +0000
 categories: gamedev
 image: /assets/img/purplefiel_min.png
+duration: "1 month"
 ---
 
 <div class="video-container">

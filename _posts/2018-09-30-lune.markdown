@@ -4,6 +4,7 @@ title:  "Lune"
 date:   2018-09-30 00:00:00 +0000
 categories: gamedev
 image: /assets/img/lune_min.png
+duration: "2 months"
 ---
 
 ![Lune screenshot][lune]

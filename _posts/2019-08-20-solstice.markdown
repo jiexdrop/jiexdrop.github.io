@@ -4,6 +4,7 @@ title:  "Solstice"
 date:   2019-08-20 00:00:00 +0000
 categories: gamedev
 image: /assets/img/solstice_min.png
+duration: "2 months"
 ---
 
 <div class="video-container">
