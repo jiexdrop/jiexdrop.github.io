@@ -13,22 +13,20 @@ duration: "1 month"
 
 # Description
 
-100 Days of Game Dev Challenge
+A simple cross-platform 4 players multiplayer RPG.
+Focus on interactions with a lot of enemies, controlled by simple AI.
 
-
-I was at day 30 before I found a job.
+# A game dev challenge
 
 I was making a video devlog each day. It was mainly for myself, to get motivated, and to keep a routine.
 
-
-*(Yes, I have more videos like this one)*
-
+I was at day 30 before I found a job. *(Yes, I have more videos like this one)*
 
 # What I learnt and created
-* Used Mirror (hight level multiplayer API) for Unity.
+* Used Mirror (high level multiplayer API) for Unity.
 * Synchronized entities between multiple instances of the game.
 * Worked in improving smoothness of movement of the player character.
-* Implemented and debuged multiplayer gameplay
+* Implemented and debugged multiplayer gameplay
 
 
 
