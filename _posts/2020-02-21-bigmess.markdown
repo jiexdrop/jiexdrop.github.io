@@ -29,3 +29,4 @@ Enjmin 2nd year project by 9 students.
 
 [BigMess github repository](https://github.com/Bombix34/ABigMess)
 
+[BigMess itch.io](https://big-mess.itch.io/game)
