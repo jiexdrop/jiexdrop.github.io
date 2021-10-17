@@ -30,7 +30,7 @@ $on-laptop:        800px !default;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   justify-items: center;
-  grid-gap: 0.5em;
+  grid-gap: 1em;
 }
 
 .post-item {
