@@ -1,0 +1,75 @@
+---
+layout: post
+title:  "MyNDF"
+date:   2021-04-26 00:00:00 +0000
+categories: flutter
+image: /assets/img/myndf_min.png
+duration: "4 months"
+---
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/KwW2jv2B54g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Description
+
+An app to create Expense Reports.
+
+The app is mostly destined to professionals. It needs an Ededoc account.
+
+This app is published on the Apple and Google stores. 
+
+I captured a quick demo, that may not be the final product.
+
+# What I learnt 
+* Improvements in app design
+* Handle State properly 
+* Manipulated routing
+* Connected multiple middleware
+
+## Functionalities
+# Expense Reports
+*  Create and edit them
+*  View all expenses
+*  Swipe to delete expense reports (Only Drafts)
+*  Submit an expense report (If state is Draft)
+*  Resubmit an expense report (If state is To_Modify)
+
+# Expenses
+*  Create and edit them
+*  Google vision recognises fields in receipts, and fills the Expense
+*  Select 1 single PDF File as receipt (1 file has 1 to multiple pages)
+*  Capture multiple pictures
+*  Crop pictures
+*  Swipe to delete expenses
+
+
+# Kilom Expense Reports
+*  Create an itinerary from typing start and destination
+*  Itinerary can be saved or not
+*  Itinerary can be used or not
+*  KmQte allows to compute the price for the Km automaticaly, once selecting a Vehicle
+
+# Other categories
+*  Fuel, Hotel, KM, Parking, Plane, Rent, Tool, Train all have specific fields
+
+# Vehicles
+*  Displayed in a list
+*  Create a new vehicle
+*  Delete a vehicle
+*  Like it to reuse it in any expense as default
+
+# Itineraries
+*  Displayed in a list
+*  A starred itinerary is an itinerary that will go to the top of the list (Intended to be reused)
+*  An itinerary can go back and forth
+
+# List Expense Reports
+*  Filter list according to history
+*  The history will be grouped by year
+*  Filter list according to state
+
+# Documents
+*  Share 1 receipt from phone creates Expense (PDF, Image)
+*  Share one receipt with any phone/email/app from MyNDF
+*  Can download an Overview of Expense Report PDF Document if state is Accepted/Refused
