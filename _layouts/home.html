@@ -23,11 +23,11 @@ layout: default
       <div class="home-overlay">
         <div class="home-text">
           {{ post.title | escape }}
-            <p>
-              {%- for category in post.categories %}
-                {{ category }}
-              {%- endfor -%}
-            </p>
+            {%- for category in post.categories %}
+              <p>
+                {{ category | capitalize  }}
+              </p>
+            {%- endfor -%}
         </div>
       </div>
     </a>
