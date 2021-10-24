@@ -2,7 +2,9 @@
 layout: post
 title:  "Purplefiel"
 date:   2021-01-20 00:00:00 +0000
-categories: gamedev
+categories: 
+- unity
+- mirror
 image: /assets/img/purplefiel_min.png
 duration: "1 month"
 ---

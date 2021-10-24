@@ -24,12 +24,9 @@ layout: default
         <div class="home-text">
           {{ post.title | escape }}
             <p>
-            {% if post.categories.first == 'gamedev' %}
-              Game
-            {%- endif -%}
-            {% if post.categories.first == 'appdev' %}
-              App
-            {%- endif -%}
+              {%- for category in post.categories %}
+                {{ category }}
+              {%- endfor -%}
             </p>
         </div>
       </div>
