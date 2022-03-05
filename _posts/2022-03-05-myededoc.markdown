@@ -5,7 +5,7 @@ date:   2022-03-05 00:00:00 +0000
 categories: flutter
 image: /assets/img/myededoc_min.png
 duration: "3 months"
-published: true
+published: false
 ---
 
 <div class="video-container">
