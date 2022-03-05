@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "MyNDF"
+date:   2022-03-05 00:00:00 +0000
+categories: flutter
+image: /assets/img/myededoc_min.png
+duration: "3 months"
+published: true
+---
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/KwW2jv2B54g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+# Description
+
+Created apps for Ededoc, like MyEDEDOC.
+
+The app centralised various apps in itself.
+
+I was in charge of Payslips (MyBSE) and vacations planning (MyCONGES) inside the app.
