@@ -5,6 +5,7 @@ date:   2018-06-14 00:00:00 +0000
 categories: godot
 image: /assets/img/stigresl_min.png
 duration: "2 days"
+published: false
 ---
 
 <div class="video-container">
