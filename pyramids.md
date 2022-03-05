@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Pyramide
-permalink: /pyramids/
+title: Shaders
+permalink: /shaders/
+published: true
 ---
 
-Are made of 1 square and 4 triangles.
+<canvas class="glslCanvas" data-fragment-url="/assets/shaders/square.frag" width="500" height="500"></canvas>
