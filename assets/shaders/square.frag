@@ -12,16 +12,22 @@ float sdBox(in vec2 uv, in vec2 pos, in vec2 size) {
 }
 
 void main() {
-    vec2 p = -1.0 + 2.0 * gl_FragCoord.xy / u_resolution.xy;
+    vec2 p = gl_FragCoord.xy / u_resolution.xy;
 
-    vec2 mouse_pos = -1.0 + 2.0 * (u_mouse / u_resolution.xy);
+    vec2 mouse_pos = u_mouse / u_resolution.xy;
 
-    vec3 color =0.5 + 0.5 *( vec3(p.x, p.y, 0.0));
 
-    float box = sdBox(p, mouse_pos, vec2(0.1, 0.1));
+    // change init color
+    float x_col = abs(sin(u_time));
+    float y_col = abs(cos(u_time));
+    vec3 color = vec3(x_col, y_col, p.x+  mouse_pos.y);
+
+    // draw a pointer in the screen
+    float box = sdBox(p, mouse_pos, vec2(0.01, 0.01));
     vec3 boxColor = vec3(0);
 
     color = mix(boxColor, color, step(0.0, box));
+    // ----
 
     gl_FragColor = vec4(color, 1.0);
 }
