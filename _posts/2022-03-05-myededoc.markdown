@@ -16,7 +16,7 @@ published: true
 
 MyEdedoc centralised various apps in itself.
 
-I was in charge of Payslips (MyBSE) and vacations planning [MyCONGES]({% post_url 2022-03-05-myconges %}) inside the app. 
+I was in charge of Payslips (MyBSE) and vacations planning (MyConges, not public) inside the app. 
 
 This app also opens [MyNDF]({% post_url 2021-07-29-myndf %}). 
 
