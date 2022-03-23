@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "MyCONGES"
+date:   2022-03-05 00:00:00 +0000
+categories: flutter
+image: /assets/img/myconges_min.png
+duration: "3 months"
+---
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/rcnQ2fjzthY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+# MyCONGES
+
+MyConges allows a user to send a request for vacations to a manager.
+
