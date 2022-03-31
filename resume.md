@@ -5,10 +5,15 @@ permalink: /resume/
 ---
 
 
-<iframe
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url={{ site.url | absolute_url }}/assets/pdf/RESUME_JORGE_NOGUEIRA.pdf#toolbar=0&scrollbar=0"
+
+
+
+<div class="pdf-container">
+  <iframe
+    class="responsive-iframe"
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://jiexdrop.github.io/assets/pdf/RESUME_JORGE_NOGUEIRA.pdf#toolbar=0&scrollbar=0"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
     width="100%"
 ></iframe>
+</div>
