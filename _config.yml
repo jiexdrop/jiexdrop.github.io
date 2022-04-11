@@ -16,7 +16,7 @@
 title: Jorge Nogueira
 email: jorge.noogueira@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I exist so I create!
+  I want to create useful, fun and stable software
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jiexdrop
