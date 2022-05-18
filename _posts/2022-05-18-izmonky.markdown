@@ -9,8 +9,6 @@ published: true
 video: https://youtube.com/embed/VZ6mqlRFMxc
 ---
 
-&nbsp;
-
 I'm making projects with blender and Unity.
 I'm learning Dotween, ProBUILDER, Cinemachine, URP, ShaderGraph.
 
