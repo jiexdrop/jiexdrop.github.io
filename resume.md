@@ -16,11 +16,5 @@ Download the resume:
 
 
 <div class="pdf-container">
-  <iframe
-    class="responsive-iframe"
-    src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://jiexdrop.github.io/assets/pdf/RESUME_JORGE_NOGUEIRA.pdf#toolbar=0&scrollbar=0"
-    frameBorder="0"
-    scrolling="auto"
-    width="100%"
-></iframe>
+  <embed src="https://jiexdrop.github.io/assets/pdf/RESUME_JORGE_NOGUEIRA.pdf" type="application/pdf" height="1200px" width="100%">
 </div>
