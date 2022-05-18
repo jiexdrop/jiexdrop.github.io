@@ -12,6 +12,8 @@ published: false
 <iframe src="https://www.youtube.com/embed/qSbZS4C9kng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+&nbsp;
+
 # Description
 
 In this game, you are able to freeze water, so you can walk over it. The water level can be changed if the water is not frozen.

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "IZMonky"
+date:   2022-03-05 00:00:00 +0000
+categories: unity
+image: /assets/img/izmonky_min.png
+duration: "1 week"
+published: true
+---
+
+&nbsp;
+
+I'm making projects with blender and Unity.
+I'm learning Dotween, ProBUILDER, Cinemachine, URP, ShaderGraph.
+
+I'm mixing things toghether to see what becomes fun.
+
+
+
+
+

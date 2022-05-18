@@ -8,6 +8,8 @@ duration: "3 months"
 ---
 ![Augure screenshot][augure]
 
+&nbsp;
+
 # Description
 
 One of your closest relatives disappeared. In order to find them, you enter in a strange curiosity cabinet. You’ll be then invited to draw 3 tarot cards and solve their puzzles to find information about the disappearance of this cherished person.

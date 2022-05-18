@@ -12,6 +12,8 @@ published: true
 <iframe src="https://www.youtube.com/embed/StAIkYoUz_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+&nbsp;
+
 # MyEDEDOC
 
 MyEdedoc centralised various apps in itself.
@@ -40,7 +42,15 @@ It has rules that improve the robustness of the apps we create:
 * Only update state on the parts of the app we change.
 * Use of controllers.
 
+&nbsp;
+
+-------------------
+&nbsp;
+
+
 For me it was the perfect place to "stand on the shoulders of giants" and take my software architecture knowledge to the next level.
+
+
 And I'm still learning with it!
 
 

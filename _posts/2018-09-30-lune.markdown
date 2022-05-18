@@ -5,10 +5,12 @@ date:   2018-09-30 00:00:00 +0000
 categories: libgdx
 image: /assets/img/lune_min.png
 duration: "2 months"
-published: false
+published: true
 ---
 
 ![Lune screenshot][lune]
+
+&nbsp;
 
 A voxel game made with libgdx. 
 

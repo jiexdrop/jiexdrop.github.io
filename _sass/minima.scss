@@ -21,10 +21,10 @@ $grey-color-dark:  darken($grey-color, 10%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width:    1200px !default;
 
 $on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-laptop:        1200px !default;
 
 .site-nav {
   z-index: 9042;
@@ -32,9 +32,10 @@ $on-laptop:        800px !default;
 
 .post-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-template-columns: repeat( auto-fit, minmax(250px, 1fr) );
   justify-items: center;
   grid-gap: 1em;
+  width: 100%;
 }
 
 .post-item {
