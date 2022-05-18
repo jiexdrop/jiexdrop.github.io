@@ -6,13 +6,8 @@ categories: flutter
 image: /assets/img/myndf_min.png
 duration: "4 months"
 published: true
+video: https://www.youtube.com/embed/KwW2jv2B54g
 ---
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/KwW2jv2B54g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-&nbsp;
 
 # Description
 

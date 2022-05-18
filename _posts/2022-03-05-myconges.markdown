@@ -6,13 +6,9 @@ categories: flutter
 image: /assets/img/myconges_min.png
 duration: "3 months"
 hide: true
+video: https://www.youtube.com/embed/rcnQ2fjzthY
 ---
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/rcnQ2fjzthY"  width="800" height="300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-&nbsp;
 
 # MyCONGES
 

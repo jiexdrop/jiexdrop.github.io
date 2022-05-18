@@ -8,14 +8,8 @@ categories:
 image: /assets/img/purplefiel_min.png
 duration: "1 month"
 published: true
+video: https://www.youtube.com/embed/_n-FqFNc6sI
 ---
-
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/_n-FqFNc6sI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-&nbsp;
 
 # Description
 

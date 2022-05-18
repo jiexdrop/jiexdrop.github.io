@@ -6,6 +6,7 @@ categories: unity
 image: /assets/img/augure_min.png
 duration: "3 months"
 ---
+
 ![Augure screenshot][augure]
 
 &nbsp;

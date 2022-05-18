@@ -6,13 +6,9 @@ categories: godot
 image: /assets/img/stigresl_min.png
 duration: "2 days"
 published: false
+video: https://www.youtube.com/embed/qSbZS4C9kng
 ---
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/qSbZS4C9kng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-&nbsp;
 
 # Description
 

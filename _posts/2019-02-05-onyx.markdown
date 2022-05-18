@@ -6,13 +6,8 @@ categories: unity
 image: /assets/img/onyx_min.png
 duration: "“1 week”"
 published: true
+video: https://www.youtube.com/embed/8eS5G-Xckvg
 ---
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/8eS5G-Xckvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-&nbsp;
 
 # Description
 
