@@ -6,7 +6,7 @@ categories: unity
 image: /assets/img/izmonky_min.png
 duration: "1 week"
 published: true
-video: https://youtube.com/embed/VZ6mqlRFMxc
+video: https://youtube.com/embed/P8vkDnVk3Bk
 ---
 
 I'm making projects with blender and Unity.
